@@ -30,6 +30,7 @@ for (i,θ) in enumerate(Θ)
 	end
 end
 
+@show intersection_r
 
 plt = plot(
 	   proj = :polar,
@@ -82,6 +83,8 @@ for (i,θ) in enumerate(Θ)
 		break
 	end
 end
+
+@show intersection_r
 
 plt2 = plot(
 	    proj = :polar,
