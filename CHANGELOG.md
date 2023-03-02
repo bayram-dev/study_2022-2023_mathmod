@@ -1,3 +1,9 @@
+#### 2023-03-02
+
+##### New Features
+
+* **main:**  Added CHANGELOG.md (c0a40418)
+
 - feat(lab4): Added presentation
 - feat(lab4): Added report
 - feat(lab4): Added source code
