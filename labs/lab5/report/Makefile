@@ -9,7 +9,7 @@ FORMAT_OPTIONS =
 
 FILTERS += -F pandoc-crossref
 PDF_ENGINE += --pdf-engine=lualatex --pdf-engine-opt=--shell-escape
-OPTIONS += --number-sections
+OPTIONS += --number-sections 
 BIB_OPTIONS = --citeproc
 
 
